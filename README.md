@@ -1,2 +1,1 @@
-# jquery-ajax-pool
-Aborts AJAX requests on page navigation, speeding up performance on connection limited servers
+Include [jquery.ajax.pool.js](https://rawgit.com/catmanjan/jquery-ajax-pool/master/jquery.ajax.pool.js) in page.
